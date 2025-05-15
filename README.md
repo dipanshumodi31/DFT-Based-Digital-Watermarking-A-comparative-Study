@@ -31,10 +31,18 @@ Two approaches are implemented:
 
 ### 📷 Original and Resized Image
 > Insert the image used (`professional.jpg`) and the resized 64x64 version here.
-<p align="center">
-  <img src="images/professional.jpg" alt="Original Image" width="45%"/>
-  <img src="images/resized.jpg" alt="Resized Image" width="45%"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/professional.jpg" alt="Original Image" width="200"/><br/>
+      <b>Original Image</b>
+    </td>
+    <td align="center">
+      <img src="images/resized.jpg" alt="Resized Image" width="200"/><br/>
+      <b>Resized Image</b>
+    </td>
+  </tr>
+</table>
 
 ### ⚙️ DFT Magnitude Before and After Watermarking
 > Shows the frequency domain impact of watermark embedding.
