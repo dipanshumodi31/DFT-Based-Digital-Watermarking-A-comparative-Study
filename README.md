@@ -38,6 +38,7 @@ Two approaches are implemented:
 
 ### ⚙️ DFT Magnitude Before and After Watermarking
 > Shows the frequency domain impact of watermark embedding.
+
   > Built-In
   <p align="center">
   <img src="images/DFTbefore_builtin.jpg" alt="DFT Before Image" width="45%"/>
