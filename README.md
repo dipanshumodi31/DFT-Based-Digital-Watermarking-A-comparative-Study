@@ -156,7 +156,6 @@ Two approaches are implemented:
     </table>
 
   - Manual
-  - Built-In
     <table>
       <tr>
         <td align="center">
