@@ -39,12 +39,12 @@ Two approaches are implemented:
 ### ⚙️ DFT Magnitude Before and After Watermarking
 > Shows the frequency domain impact of watermark embedding.
 
-  > Built-In
+  - Built-In
   <p align="center">
   <img src="images/DFTbefore_builtin.jpg" alt="DFT Before Image" width="45%"/>
   <img src="images/DFTafter_builtin.jpg" alt="DFT After Image" width="45%"/>
   </p>
-  > Manual
+  - Manual
   <p align="center">
   <img src="images/DFTbefore_manual.jpg" alt="DFT Before Image" width="45%"/>
   <img src="images/DFTafter_manual.jpg" alt="DFT After Image" width="45%"/>
@@ -52,11 +52,11 @@ Two approaches are implemented:
 
 ### 🖼️ Watermarked Image
 > Reconstructed image after inverse DFT.
-  > Built-In
+  - Built-In
   <p align="center">
   <img src="images/watermarked_builtin.jpg" alt="Built-in Image" width="45%"/>
   </p>
-  > Manual
+  - Manual
   <p align="center">
   <img src="images/watermarked_manual.jpg" alt="Manual Image" width="45%"/>  
   </p>
