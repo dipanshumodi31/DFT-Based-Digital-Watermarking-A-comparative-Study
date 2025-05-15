@@ -83,7 +83,7 @@ Two approaches are implemented:
     <tr>
       <td align="center">
         <img src="images/watermarked_builtin.jpg" alt="Built-in Watermark Image" width="200"/><br/>
-        <b>DFT Before Image</b>
+        <b>Built-in Watermark Image</b>
       </td>
     </tr>
   </table>
@@ -93,7 +93,7 @@ Two approaches are implemented:
     <tr>
       <td align="center">
         <img src="images/watermarked_manual.jpg" alt="Manual Watermark Image" width="200"/><br/>
-        <b>DFT Before Image</b>
+        <b>Manual Watermark Image</b>
       </td>
     </tr>
   </table>
@@ -102,14 +102,71 @@ Two approaches are implemented:
 ### 🔍 Difference Visualizations
 > Highlight the visual and quantitative differences due to watermarking.
 
-- Magnitude Spectrum Difference  
-  ![Magnitude Diff](images/magnitude_diff.png)
+- Magnitude Spectrum Difference
+  - Built-In
+    <table>
+      <tr>
+        <td align="center">
+          <img src="images/magnitude_diff_buitin.jpg" alt="Built-In Magnitude Difference Image" width="200"/><br/>
+          <b>Built-In Magnitude Difference Image</b>
+        </td>
+      </tr>
+    </table>
+
+  - Manual
+  - Built-In
+    <table>
+      <tr>
+        <td align="center">
+          <img src="images/magnitude_diff_manual.jpg" alt="Manual Magnitude Difference Image" width="200"/><br/>
+          <b>Manual Magnitude Difference Image</b>
+        </td>
+      </tr>
+    </table>
   
 - Image Difference (Spatial Domain)  
-  ![Spatial Diff](images/spatial_diff.png)
-  
+  - Built-In
+    <table>
+      <tr>
+        <td align="center">
+          <img src="images/spatial_diff_buitin.jpg" alt="Built-In Spatial Difference Image" width="200"/><br/>
+          <b>Built-In Spatial Difference Image</b>
+        </td>
+      </tr>
+    </table>
+
+  - Manual
+  - Built-In
+    <table>
+      <tr>
+        <td align="center">
+          <img src="images/spatial_diff_manual.jpg" alt="Manual Spatial Difference Image" width="200"/><br/>
+          <b>Manual Spatial Difference Image</b>
+        </td>
+      </tr>
+    </table>
+    
 - Watermark Pattern  
-  ![Watermark Pattern](images/watermark_pattern.png)
+  - Built-In
+    <table>
+      <tr>
+        <td align="center">
+          <img src="images/Watermark_pattern_builtin.jpg" alt="Built-In Watermark Pattern" width="200"/><br/>
+          <b>Built-In Watermark Pattern</b>
+        </td>
+      </tr>
+    </table>
+
+  - Manual
+  - Built-In
+    <table>
+      <tr>
+        <td align="center">
+          <img src="images/Watermark_pattern_manual.jpg" alt="Manual Watermark Pattern" width="200"/><br/>
+          <b>Manual Watermark Pattern</b>
+        </td>
+      </tr>
+    </table>
 
 ---
 
