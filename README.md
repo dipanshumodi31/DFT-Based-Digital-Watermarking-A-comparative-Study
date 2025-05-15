@@ -48,26 +48,55 @@ Two approaches are implemented:
 > Shows the frequency domain impact of watermark embedding.
 
   - Built-In
-  <p align="center">
-  <img src="images/DFTbefore_builtin.jpg" alt="DFT Before Image" width="45%"/>
-  <img src="images/DFTafter_builtin.jpg" alt="DFT After Image" width="45%"/>
-  </p>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="images/DFTbefore_builtin.jpg" alt="DFT Before Image" width="200"/><br/>
+        <b>DFT Before Image</b>
+      </td>
+      <td align="center">
+        <img src="images/DFTafter_builtin.jpg" alt="DFT After Image" width="200"/><br/>
+        <b>DFT After Image</b>
+      </td>
+    </tr>
+  </table>
+  
   - Manual
-  <p align="center">
-  <img src="images/DFTbefore_manual.jpg" alt="DFT Before Image" width="45%"/>
-  <img src="images/DFTafter_manual.jpg" alt="DFT After Image" width="45%"/>
-  </p>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="images/DFTbefore_manual.jpg" alt="DFT Before Image" width="200"/><br/>
+        <b>DFT Before Image</b>
+      </td>
+      <td align="center">
+        <img src="images/DFTafter_manual.jpg" alt="DFT After Image" width="200"/><br/>
+        <b>DFT After Image</b>
+      </td>
+    </tr>
+  </table>
 
 ### 🖼️ Watermarked Image
 > Reconstructed image after inverse DFT.
+
   - Built-In
-  <p align="center">
-  <img src="images/watermarked_builtin.jpg" alt="Built-in Image" width="45%"/>
-  </p>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="images/watermarked_builtin.jpg" alt="Built-in Watermark Image" width="200"/><br/>
+        <b>DFT Before Image</b>
+      </td>
+    </tr>
+  </table>
+  
   - Manual
-  <p align="center">
-  <img src="images/watermarked_manual.jpg" alt="Manual Image" width="45%"/>  
-  </p>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="images/watermarked_manual.jpg" alt="Manual Watermark Image" width="200"/><br/>
+        <b>DFT Before Image</b>
+      </td>
+    </tr>
+  </table>
 
 
 ### 🔍 Difference Visualizations
